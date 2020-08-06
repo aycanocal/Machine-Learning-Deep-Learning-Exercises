@@ -1,6 +1,6 @@
 # Machine-Learning-Exercises
 
-Simple easy exercises written in Jupyter Notebook with Python's scikit-learn, pandas, matplotlib and seaborn libraries.
+Simple easy exercises written in Jupyter Notebook with Python
 
 iris.ipynb:
 Iris dataset is visualized.
