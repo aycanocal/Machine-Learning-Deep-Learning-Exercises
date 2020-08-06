@@ -5,3 +5,6 @@ Simple easy exercises written in Jupyter Notebook with Python's scikit-learn, pa
 iris.ipynb:
 Iris dataset is visualized.
 Iris classification with k-Nearest-Neighbours is implemented.
+
+MNIST.ipynb:
+MNIST digit classification with CNN is implemented.
