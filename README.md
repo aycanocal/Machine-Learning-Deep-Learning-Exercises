@@ -1,4 +1,4 @@
-# Machine-Learning-Exercises
+# Machine-Learning-Deep-Learning-Exercises
 
 Simple easy exercises written in Jupyter Notebook with Python
 
